@@ -1,2 +1,4 @@
-# Pluralsight-Glicko-Algorithm-Take-Home-Challenge
-Python-based Data Visualisation and Analysis of Glicko Ratings
+# Pluralsight's Glicko Algorithm Challenge
+
+# About
+This ipynb-based code has been programmed for exploratory visualisation of the relevant dataset concerned with examining the Glicko Algorithm.
